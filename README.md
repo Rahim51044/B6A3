@@ -46,7 +46,9 @@ Therefore, only vehicles that do not appear in the bookings table are selected.
 
 
 Query 4: GROUP BY and HAVING
+GROUP BY groups bookings by vehicle, and HAVING filters grouped results based on total bookings.
 
+Theory questions video Google drive link:  (https://drive.google.com/drive/folders/1a8loe2zhpv693-YU5zP7eulmtpa46Weu?usp=sharing)
 
 
 
