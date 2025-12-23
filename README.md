@@ -50,5 +50,7 @@ GROUP BY groups bookings by vehicle, and HAVING filters grouped results based on
 
 Theory questions video Google drive link:  (https://drive.google.com/drive/folders/1a8loe2zhpv693-YU5zP7eulmtpa46Weu?usp=sharing)
 
+ERD Diagram Link:  (https://drawsql.app/teams/sunrise-computer/diagrams/vehicle-rental-system)
+
 
 
